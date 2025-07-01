@@ -20,6 +20,7 @@ section
     justify-content: center;
     color: #fff;
     perspective: 1000px;
+    overflow: hidden;
 }
 
 section::before
